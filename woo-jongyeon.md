@@ -26,6 +26,15 @@ ICD: M45, F33
 
 <img src="./woo-jongyeon.png" alt="description" style="width:100%;" />
 
+*Music for My Funeral*
+
+*Title: 015B - 이젠 안녕 (Now Goodbye)*
+
+*YouTube Link: https://youtu.be/cBiqltuGT88?si=Iz8Uxe7bbTc2LNOy*
+
+*If I could choose a song for my funeral, I would choose "Now Goodbye" by 015B. The song expresses a farewell, but it is not only sad. Its warm melody and message of gratitude make it a meaningful choice. I hope people will remember the good memories we shared and continue their lives with hope after listening to this song.*
+
+
 # 믿는 자
 
 *아티스트: 이매진 드래곤스*
@@ -46,3 +55,10 @@ ICD: M45, F33
 
 <img src="./woo-jongyeon.png" alt="description" style="width:100%;" />
 
+*자신의 장례식에서 연주되길 희망하는 음악*
+
+*제목: 015B - 이젠 안녕*
+
+*유튜브 링크: https://youtu.be/cBiqltuGT88?si=Iz8Uxe7bbTc2LNOy*
+
+*만약 내 장례식에서 연주될 음악을 고른다면 015B의 이젠 안녕을 선택할 것이다. 이 곡은 이별을 노래하지만 단순히 슬프기만 하지 않고, 따뜻한 멜로디와 감사의 마음을 담고 있다. 이 노래를 통해 사람들이 나와의 좋은 추억을 떠올리며 앞으로의 삶을 희망적으로 살아가기를 바란다.*
