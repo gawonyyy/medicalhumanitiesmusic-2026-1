@@ -15,6 +15,7 @@ As a mental illness where two opposing states intersect, [this work](ham-yeji.md
 I chose [this song](https://www.youtube.com/watch?v=g-rZeTNIw7E&list=RDg-rZeTNIw7E&start_radio=1) 'Good Night and Good Sleep' because it is neither too sad nor too upbeat, and the lyrics feel like the perfect words to leave behind for my friends and family who come to my funeral.
 
 <img src="./yu-seungwon.png" alt="description" style="width:60%;" />
+
 # 사육제 중 복면 광대
 
 이 작품은 작곡가가 평생을 투쟁했던 양극성 장애의 심리적 상태가 음악적 구조로 어떻게 전이될 수 있는지를 보여주는 기록입니다. 현대 의학이 객관적 수치와 진단명에만 집중할 때, 슈만은 음악이라는 매체를 통해 자신이 직접 경험하는 주관적 아픔의 이야기인 질환서사를 주체적으로 구축해 냅니다. 슈만은 자신의 내면을 극단적으로 대조되는 두 인물로 나누어 곡에 등장시킵니다. '플로레스탄' 악장에서는 조증 상태의 고조된 에너지와 예측 불가능한 돌발성을, '오세비우스’ 악장에서는 울증 상태의 침잠된 우울과 몽환적인 정서를 가감 없이 드러냅니다. 이는 질병을 단순히 객관적으로 관찰하는 대상이 아니라, 음악이라는 형식을 빌려 자신의 정신적 상태를 캐릭터화하여 마주하려 한 시도입니다. 이는 언어의 바깥에 존재하는 정신적 고통을 음악적 장치를 통해 신체화하여 청각적으로 전달하려 했던 고도의 서사의학적 실천으로 볼 수 있습니다. 나아가 이러한 내면의 양극성은 단순히 심리적 불안과 결핍에 머무르는 것이 아닙니다. 아도르노가 말한 조화에 저항하는 불화의 미학처럼, 양극성 장애이기에 도달할 수 있었던 독창적인 감각과 구조적 실험을 낳으며 장애미학적 관점에서의 또 다른 미학적 풍요로움을 우리에게 선사합니다. 이 작품은 전통적인 아름다움의 통일이 아닌, 부서지고 파열된 흔적 그 자체에서 성립되는 대안적 미학의 가능성을 증명합니다.
