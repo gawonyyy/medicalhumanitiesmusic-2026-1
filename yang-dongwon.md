@@ -27,6 +27,15 @@ This interpretation is directly connected to my HYQ Future Question: how can I l
 
 이 해석은 나의 HYQ Future Question인 “질병·장애·고통이 담긴 음악을 들을 때 타인의 고통을 아름다움이나 구경거리로 소비하지 않고 어떻게 윤리적으로 해석할 수 있을까?”라는 질문과 직접적으로 연결된다. Notre-Dame de Paris에서 콰지모도의 몸은 그 자체로 ‘비정상’인 것이 아니라, 군중의 시선과 사회가 정한 정상적이고 아름다운 몸의 기준 속에서 비정상으로 만들어진다. 이는 정상성과 규범성, 의료인문학, 질환서사, 고통의 미학과 연결된다. 이 노래는 관객이 콰지모도의 고통을 듣게 만들지만, 동시에 우리가 그에게 공감하고 있는지 아니면 그의 고통을 극적인 음악 장면으로 소비하고 있는지 묻게 한다. 또한 그의 청각장애는 청능주의 논의와 연결되며, 음악이 반드시 ‘정상적인 청각’으로만 경험되는 것이 아니라 진동, 몸의 감각, 시각적 움직임, 몸짓을 통해서도 경험될 수 있음을 생각하게 한다. 이러한 관점은 의료 현장이나 간호 실무로도 확장될 수 있다. 콰지모도를 장애명으로만 설명할 수 없듯이, 환자 역시 진단명이나 증상으로만 이해되어서는 안 되며, 말, 표정, 침묵, 몸짓과 같은 비언어적 표현까지 그 사람의 질환서사로 경청해야 한다.
 
+# Related Entries
+- Keys to the Heart: This entry is related to my discussion of Quasimodo because it also interprets disability not simply as deficiency, but as another way of communicating through music. While Quasimodo’s body is judged through the crowd’s gaze in Notre-Dame de Paris, Jintae’s piano performance in Keys to the Heart challenges social assumptions about the “normal” body and communication.
+- Knees: This entry is useful in relation to my discussion of hearing loss and audism. It reflects on how music does not have to be experienced only through “normal” hearing, but can also be understood through vibration, movement, memory, and emotion. This connects to Quasimodo’s hearing loss and to the question of who is included or excluded in musical experience.
+- Jekyll and Hyde: This entry connects to my concern about the ethical representation of suffering. Just as Jekyll and Hyde reminds us that musical drama cannot fully convey the lived experience of a person with dissociative identity disorder, Notre-Dame de Paris also requires caution so that Quasimodo’s suffering is not consumed merely as a powerful or beautiful musical spectacle.
+# 관련 항목
+- 그것만이 내 세상: 이 항목은 장애를 단순한 결핍이 아니라 음악을 통한 또 다른 소통 방식으로 해석한다는 점에서 콰지모도에 대한 나의 논의와 연결된다. Notre-Dame de Paris에서 콰지모도의 몸이 군중의 시선 속에서 판단된다면, 그것만이 내 세상의 진태는 피아노 연주를 통해 ‘정상적인 몸’과 ‘정상적인 소통’의 기준에 질문을 던진다.
+- 무릎: 이 항목은 청각장애와 청능주의에 대한 나의 논의와 연결된다. 음악이 반드시 ‘정상적인 청각’만으로 경험되는 것이 아니라 진동, 움직임, 기억, 감정 등을 통해서도 이해될 수 있다는 점을 보여주기 때문이다. 이는 콰지모도의 청각장애와 음악 경험에서 누가 포함되고 배제되는지를 생각하게 한다.
+- 지킬 앤 하이드: 이 항목은 고통의 윤리적 재현이라는 문제와 연결된다. Jekyll and Hyde가 해리성 정체감 장애 당사자의 실제 경험 전체를 완전히 전달할 수 없다는 한계를 성찰하듯, Notre-Dame de Paris 역시 콰지모도의 고통을 강렬하고 아름다운 장면으로만 소비하지 않도록 조심스럽게 감상할 필요가 있다.
+
 # Youtube 영상
 
 [https://youtu.be/md3imvLhMjg?si=vNsTj2G0nUJJxbZp]
