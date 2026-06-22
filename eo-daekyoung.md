@@ -22,6 +22,10 @@ In scenes where Nina can no longer distinguish herself from others and experienc
 
 This suggests that mental illness is not simply caused by personal weakness, but can worsen under excessive competition, perfectionism, and constant stress. Therefore, the music in Black Swan is not merely decorative; it effectively conveys the characteristics of anxiety disorders, obsessive behavior, and hallucinations, while also serving as an important expressive medium that reveals the relationship between mental illness and human psychology.
 
+This perspective is closely related to one of the central questions discussed throughout the course(Week 5): “Can suffering be expressed through music?” Rather than describing pain through words alone, music can communicate psychological distress through dissonance, repetition, unstable harmonies, and dramatic changes in dynamics. In Black Swan, Nina’s anxiety and obsession are not simply shown visually but are also translated into sound, allowing the audience to experience her suffering on an emotional level.
+
+Furthermore, the film demonstrates that illness itself can possess a narrative. As discussed in narrative medicine, illness is not merely a collection of symptoms but a lived human experience with its own story. Nina’s psychological deterioration unfolds gradually throughout the film, and the music evolves alongside this process. The soundtrack therefore functions as a musical narration of her illness, helping the audience understand not only what happens to Nina but also how the experience feels from within.
+
 <img src="./eo-daekyoung.png" alt="Black Swan: Music and Madness" style="width:33%;" />
 
 # The music I hope will be played at my funeral
@@ -36,6 +40,10 @@ This song also helps people view death as more than just something to fear. Deat
 
 After I am gone, I would rather have people remember the happy moments we shared than be overwhelmed by sadness. I would like them to talk about the times we laughed together and the joyful memories we created. A funeral filled with comments such as, “That person brought happiness into my life,” or “I truly enjoyed the time we spent together,” would be meaningful enough for me. I believe this song can help create such an atmosphere. Beginning gently and ending in a powerful, majestic way, it feels like the story of a life being told from beginning to end, helping to deliver a beautiful and dignified final farewell.
 
+The course(Week 15) also explored the relationship between music and death. Rather than viewing death solely as a biological event, we discussed how music can help individuals and communities understand loss, remembrance, and the meaning of a life that has ended. In this context, funeral music serves not only as an expression of grief but also as a way of preserving memories and strengthening connections between the deceased and those who remain.
+
+The song does not focus exclusively on sorrow; instead, it encourages reflection on relationships, shared experiences, and the value of a life that has been lived. Through music, memories can continue to exist even after death, allowing people to remember someone not only through words but also through the emotions that a familiar melody evokes.
+
 For these reasons, I would choose Time to Say Goodbye as the song I hope will be played at my funeral. It is not merely a song of mourning; it carries messages of gratitude for life, love for others, and the meaning of a peaceful farewell. If this music were to fill the funeral hall, I would hope that the people left behind would comfort one another and warmly remember the time we shared together. If that happened, it would be the most meaningful farewell I could wish for.
 
 # Connection between the HYQ Portfolio and DB file
@@ -46,7 +54,11 @@ For example, in the early part of the film, the Swan Lake melody is presented in
 
 This effect becomes particularly evident in scenes where Nina experiences hallucinations, such as when she sees her reflection moving independently in the mirror or imagines black feathers growing from her body before the performance. In these moments, the familiar Swan Lake melody is transformed into a more aggressive and unstable musical form. While the audience subconsciously recalls the graceful image of the swan associated with the original theme, the distorted version simultaneously evokes feelings of fear and anxiety. In other words, the music heard in the present interacts with memories formed from earlier musical experiences, creating new emotional responses.
 
-As explored in the QBL project, this demonstrates that sound is not merely a physical stimulus but also a powerful medium capable of activating memory and emotion. The music of Black Swan encourages viewers to accumulate and recall emotional experiences through recurring musical themes, even without consciously analyzing them. Therefore, the film provides an effective example of how the relationship between sound and memory can operate on an unconscious level.
+As explored in the QBL project, this demonstrates that sound is not merely a physical stimulus but also a powerful medium capable of activating memory and emotion. Throughout this course(Week 12), we examined how music can carry experiences of illness, suffering, isolation, and even death. Just as a patient's story is valued in narrative medicine, music can preserve and communicate emotional experiences that are difficult to express through ordinary language.
+
+The recurring musical themes in Black Swan illustrate how memories and emotions accumulate through repeated listening. The audience unconsciously forms emotional associations with the music, and these associations influence how later scenes are interpreted. This process suggests that sound and memory are deeply interconnected, often operating beneath conscious awareness.
+
+The music of Black Swan encourages viewers to accumulate and recall emotional experiences through recurring musical themes, even without consciously analyzing them. Therefore, the film provides an effective example of how the relationship between sound and memory can operate on an unconscious level.
 
 Furthermore, my choice of Time to Say Goodbye as the song I would like to be played at my funeral is closely related to the question explored in my HYQ Portfolio: “Can the connection between sound and memory occur unconsciously?” Throughout the course, we learned that sound is not merely an auditory stimulus but is deeply connected to an individual’s memories, emotions, and experiences. We also learned that certain sounds or pieces of music can evoke past experiences without any conscious effort.
 
@@ -68,6 +80,10 @@ Ultimately, Time to Say Goodbye is more than a farewell song; it serves as a med
 
 또한 니나가 자신과 타인을 구분하지 못하고 환각을 경험하는 장면에서는 음악 또한 불안정하게 흔들리며 현실과 환상의 경계를 흐리게 만든다. 이때 음악에서는 음정이 미세하게 어긋나는 불협화음, 갑작스럽게 커졌다 작아지는 다이내믹 변화가 사용한다. 추가적으로 집요하게 이어지는 현악기의 리듬, 그리고 음향이 울리거나 겹쳐 들리는 효과가 사용된다. 특히 익숙했던 Swan Lake의 멜로디가 점차 느려지거나 뒤틀린 형태로 변형되어 등장하면서 니나의 혼란과 현실감 상실을 더욱 강조한다. 예를 들어 니나가 거울 속 자신의 모습이 독립적으로 움직이는 환각을 경험하는 장면에서는 날카로운 현악기 소리와 급격히 고조되는 음향이 사용되어 극도의 불안감과 공포를 형성한다. 또한 공연 직전 니나가 몸에서 검은 깃털이 자라나는 환각을 보는 장면에서는 음악의 속도와 음량이 빠르게 증가하며 현실과 환상이 뒤섞이는 긴장감을 극대화한다. 이러한 음악적 변화는 관객이 니나의 불안과 환각을 단순히 보는 것이 아니라 직접 체험하는 듯한 느낌을 주며 현실과 환상의 경계가 무너지는 심리 상태를 효과적으로 표현한다. 이는 예술이 정신적 붕괴와 심리를 표현하는 강력한 수단이 될 수 있음을 증명한다. 이와 관련해서는 [다른 영화의 내용](jung-woojin.md)도 참조하면 도움이 될 것이다.
 
+이러한 관점은 수업(Week 5)에서 다루었던 “고통은 음악으로 표현될 수 있는가?”라는 질문과도 밀접하게 연결된다. 인간의 고통은 단순히 언어로만 전달되는 것이 아니라 음악을 통해서도 표현될 수 있다. 특히 불협화음, 반복되는 리듬, 불안정한 화성 진행, 급격한 음량 변화와 같은 음악적 요소들은 심리적 고통을 청각적으로 전달하는 역할을 한다. 「Black Swan」에서 니나가 겪는 불안과 강박, 정신적 붕괴 역시 단순히 화면 속 사건으로 제시되는 것이 아니라 음악을 통해 관객이 직접 체험하도록 만든다.
+
+또한 이 영화는 질병과 음악이 하나의 서사를 형성할 수 있음을 보여준다. 수업에서 배운 서사의학(Narrative Medicine)은 질병을 단순한 증상들의 집합이 아니라 개인이 경험하는 삶의 이야기로 이해하는 접근 방식이다. 니나의 정신적 이상 증상은 영화가 진행될수록 점차 심화되며, 음악 역시 이에 맞추어 변화한다. 따라서 영화 속 음악은 단순한 배경음악이 아니라 니나의 질병 경험을 서사적으로 전달하는 중요한 장치라고 볼 수 있다.
+
 <img src="./eo-daekyoung.png" alt="Black Swan: Music and Madness" style="width:33%;" />
 
 # 내 장례식에서 연주되길 희망하는 음악
@@ -82,6 +98,10 @@ Ultimately, Time to Say Goodbye is more than a farewell song; it serves as a med
 
 나는 내가 떠난 후에 주변 사람들이 지나치게 슬퍼하기보다는, 함께 웃었던 기억이나 즐거웠던 순간들을 이야기해 주었으면 좋겠다. “그 사람 덕분에 행복한 순간이 있었다”, “함께한 시간이 즐거웠다”와 같은 말들이 오가는 장례식이라면 그것만으로도 충분히 의미 있는 마지막 순간일 것이다. 이 노래는 그러한 분위기를 만들어 줄 수 있는 곡이라고 생각한다. 잔잔하게 시작해 웅장하게 마무리되는 선율은 마치 한 편의 인생 이야기를 들려주는 것 같으며, 마지막 인사를 아름답고 품위 있게 전할 수 있도록 도와준다.
 
+또한 수업(Week 15)에서는 죽음을 단순히 삶의 끝이 아니라 기억과 관계를 되돌아보게 만드는 인간 경험의 한 과정으로 바라보았다. 음악은 이러한 과정에서 중요한 역할을 한다. 사람들은 장례식 음악을 통해 슬픔을 표현할 뿐만 아니라 고인을 기억하고, 함께했던 시간을 떠올리며, 남겨진 사람들끼리 서로를 위로하기도 한다.
+
+이러한 점에서 「Time to Say Goodbye」는 단순히 이별의 슬픔만을 담은 곡이 아니다. 오히려 살아 있는 동안 함께했던 관계와 추억의 의미를 되새기게 만드는 음악이라고 생각한다. 만약 이 곡이 나의 장례식에서 연주된다면 사람들은 죽음 자체보다도 함께 웃고 이야기했던 순간들을 떠올릴 것이고, 그 기억은 음악과 함께 오래 남게 될 것이다. 이는 소리와 기억의 연결이 인간의 삶과 죽음을 넘어 지속될 수 있음을 보여주는 사례라고 생각한다.
+
 따라서 나는 나의 장례식에서 연주되길 희망하는 음악으로 Time to Say Goodbye를 선택하고 싶다. 이 곡은 단순한 애도의 노래가 아니라, 삶에 대한 감사와 사람들에 대한 사랑, 그리고 평화로운 작별의 의미를 담고 있기 때문이다. 만약 이 음악이 장례식장에서 울려 퍼진다면, 남겨진 사람들이 슬픔 속에서도 서로를 위로하며 나와 함께했던 시간을 따뜻하게 기억해 주기를 바란다. 그렇게 된다면 그것이 내가 바라는 가장 의미 있는 마지막 모습일 것이다.
 
 # HYQ Portfolio와 DB 파일의 연결
@@ -92,7 +112,9 @@ Black Swan에 나오는 음악적 특징은 HYQ Portfolio에서 탐구한 ‘소
 
 특히 니나가 거울 속 자신의 모습이 독립적으로 움직이는 환각을 경험하는 장면이나, 공연 직전 몸에서 검은 깃털이 자라나는 환각을 보는 장면에서는 기존에 익숙했던 「Swan Lake」의 멜로디가 더욱 공격적이고 불안정한 형태로 변형된다. 이때 관객은 처음 들었을 때의 우아한 백조의 이미지를 무의식적으로 떠올리면서도 동시에 왜곡된 음악을 통해 공포와 불안을 느끼게 된다. 즉, 현재 들리는 소리가 과거에 형성된 음악적 기억과 결합하여 새로운 감정을 만들어내는 것이다.
 
-이는 QBL 수업에서 탐구한 것처럼 소리가 단순한 물리적 자극이 아니라 기억과 감정을 활성화하는 매개체가 될 수 있음을 보여준다. 『Black Swan』의 음악은 관객이 의식적으로 분석하지 않아도 반복되는 선율을 통해 특정 감정을 축적하고 회상하도록 만들며, 이를 통해 소리와 기억의 연결이 무의식적인 수준에서도 이루어질 수 있음을 효과적으로 보여주는 사례라고 할 수 있다.
+수업(Week 12)에서는 질병, 고통, 소외, 죽음과 같은 인간의 경험이 음악을 통해 표현될 수 있다는 점을 학습하였다. 특히 서사의학의 관점(Week 12)에서 볼 때 음악은 단순한 예술 작품이 아니라 인간의 경험을 담아내는 하나의 이야기이기도 하다. 「Black Swan」에서 반복적으로 등장하는 선율은 단순한 배경음이 아니라 관객이 이전 장면에서 느꼈던 감정과 기억을 축적하도록 만드는 역할을 한다.
+
+관객은 같은 음악을 반복적으로 들으면서 무의식적으로 특정 감정을 연상하게 되고, 이후 같은 선율이 다시 등장할 때 이전의 기억과 감정이 함께 활성화된다. 이는 소리와 기억의 연결이 반드시 의식적인 과정을 통해 이루어지는 것이 아니라 무의식적으로 형성될 수 있음을 보여주는 사례라고 생각한다. 『Black Swan』의 음악은 관객이 의식적으로 분석하지 않아도 반복되는 선율을 통해 특정 감정을 축적하고 회상하도록 만들며, 이를 통해 소리와 기억의 연결이 무의식적인 수준에서도 이루어질 수 있음을 효과적으로 보여주는 사례라고 할 수 있다.
 
 그리고 내가 장례식에서 연주되기를 희망하는 음악으로 「Time to Say Goodbye」를 선택한 이유는 HYQ Portfolio에서 탐구한 ‘소리와 기억의 연결은 무의식적으로 이루어질 수 있는가?’라는 질문과도 밀접하게 관련되어 있다. 수업에서는 소리가 단순한 청각적 자극이 아니라 개인의 기억, 감정, 경험과 깊이 연결되어 있으며, 특정 소리나 음악이 의식적인 노력 없이도 과거의 경험을 떠올리게 할 수 있다는 점을 학습하였다.
 
