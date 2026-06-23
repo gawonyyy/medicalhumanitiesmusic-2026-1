@@ -1,8 +1,8 @@
 ---
 Title: Knees
 Year: 2015
-Genre: song
-Disease: insomnia
+Genre: Song
+Disease: Insomnia
 ICD: F51
 ---
 
@@ -14,7 +14,7 @@ Sitting blankly all alone in the night when everyone falls asleep / Staying awak
 
 The musical characteristics flowing throughout the song render this sense of insomnia and comfort even more multidimensional. The minimalist acoustic guitar melody with stripped-down instrumentation and the slow tempo paradoxically translate the raw stillness of a sleepless night into sound. Furthermore, the melody moves gently within a relatively narrow vocal range, and its repetitive contour with few large leaps evokes the psychological state of the narrator, who is unable to fully relax or let go of tension. In particular, the calm, quietly murmuring vocal tone—where even the sound of breathing is vividly captured—brilliantly portrays the current, hyper-sensitive psychological state of tossing and turning with nerves on edge at the slightest stir, offering the listener an experience of auditory anamnesis that goes beyond mere musical appreciation. 
 
-Ultimately, *Knees* embraces the loneliness and vulnerability we carry as adults. Through the poignant metaphor of a "lap," it offers warm consolation to our desperate yearning to find comfort and rest once again amidst the harsh realities of daily life. From the perspective of illness narrative discussed in class, this song can be understood not as an explanation of insomnia as a medical symptom, but rather as a story that conveys the lived experiences and emotions of a person struggling with it. Insomnia is not merely a problem of sleep; it is often closely connected to loneliness, emotional exhaustion, and depressive feelings. In this sense, Knees can be interpreted as a musical narrative that reveals the emotional suffering of modern individuals who are unable to find adequate rest, rather than simply depicting the condition of being unable to fall asleep. It may also be helpful to refer to [content on depression](choi-dahyeon.md) in relation to this.
+Ultimately, *Knees* embraces the loneliness and vulnerability we carry as adults. Through the poignant metaphor of a "lap," it offers warm consolation to our desperate yearning to find comfort and rest once again amidst the harsh realities of daily life. From the perspective of illness narrative discussed in class, this song can be understood not as an explanation of insomnia as a medical symptom, but rather as a story that conveys the lived experiences and emotions of a person struggling with it. Insomnia is not merely a problem of sleep; it is often closely connected to loneliness, emotional exhaustion, and depressive feelings. In this sense, *Knees* can be interpreted as a musical narrative that reveals the emotional suffering of modern individuals who are unable to find adequate rest, rather than simply depicting the condition of being unable to fall asleep. It may also be helpful to refer to [content on depression](choi-dahyeon.md) in relation to this.
 
 <img src="./kim-chaeeun.png" alt="sleeping on grandmother’s lap" style="width:40%;" />
 
@@ -46,7 +46,7 @@ The song I want played at my funeral is Chuu's [XO, My Cyberlove](https://youtu.
 
 특히 이러한 탐구는 내가 당연하게 여겨 왔던 음악 경험의 기준을 다시 생각하게 만들었다. 우리는 흔히 음악을 '듣는 것'으로 이해하지만, 수업에서 살펴본 청각장애인의 음악 경험과 청능주의 논의는 음악이 반드시 하나의 방식으로만 경험되는 것이 아님을 보여주었다. 누군가는 소리를 통해 음악을 듣고, 누군가는 진동과 움직임을 통해 음악을 느끼며, 또 다른 누군가는 음악 속에서 자신의 기억과 감정을 마주한다.
 
-이처럼 음악을 경험하는 방식이 사람마다 다를 수 있다면, 미래의 음악 문화는 어떤 모습이어야 할까 하는 궁금증이 자연스럽게 생겼다. 특히 인공지능과 감각 변환 기술이 발전하는 시대에는 음악이 특정한 감각이나 신체를 기준으로 설계되는 것이 아니라, 더 다양한 사람들이 각자의 방식으로 참여하고 표현할 수 있는 방향으로 변화할 수도 있을 것이다. 한 학기 동안의 탐구는 나에게 음악의 본질이 소리 자체보다도 사람들의 경험과 관계를 연결하는 데 있을지 모른다는 통찰을 남겼다.
+이처럼 음악을 경험하는 방식이 사람마다 다를 수 있다면, 미래의 음악 문화는 어떤 모습이어야 할까 하는 궁금증이 자연스럽게 생겼다. 특히 인공지능과 감각 변환 기술이 발전하는 시대에는 음악이 특정한 감각이나 신체를 기준으로 설계되는 것이 아니라, 더 다양한 사람들이 각자의 방식으로 참여하고 표현할 수 있는 방향으로 변화할 수도 있을 것이다. 한 학기 동안의 탐구는 나에게 음악의 본질이 소리 자체보다도 사람들의 경험과 관계를 연결하는 데 있을지 모른다는 통찰을 남겼다. 
 
 # 나의 장례식에서 연주되길 희망하는 음악
 
