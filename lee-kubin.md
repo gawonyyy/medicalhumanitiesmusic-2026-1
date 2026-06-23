@@ -22,7 +22,7 @@ Similarly, one could further explore the relationship between mental illness and
 
 # The Music I Hope Will Be Played at My Funeral
 
-"I would like Guns N' Roses' ["Knocking on Heaven's Door](https://www.youtube.com/watch?v=k04tX2fvh0o&list=RDk04tX2fvh0o&start_radio=1) to play at my funeral. Not only do I love Guns N' Roses in general, but this song in particular is written for a dying sheriff — so I feel like it would paint a picture of me standing at the gates of heaven for everyone there."
+I would like Guns N' Roses' ["Knocking on Heaven's Door](https://www.youtube.com/watch?v=k04tX2fvh0o&list=RDk04tX2fvh0o&start_radio=1) to play at my funeral. Not only do I love Guns N' Roses in general, but this song in particular is written for a dying sheriff — so I feel like it would paint a picture of me standing at the gates of heaven for everyone there. The guitar-driven intensity of the song captures the kind of life I want to be remembered for — passionate, loud, and unapologetically alive. If people are going to cry, I'd rather they do it with a riff echoing in their ears.
 
 
 # 위플래쉬
@@ -39,4 +39,4 @@ Similarly, one could further explore the relationship between mental illness and
 
 # 나의 장례식에서 연주되길 희망하는 음악
 
-장례식에는 Guns N' Roses의 ["Knocking on heaven's door'](https://www.youtube.com/watch?v=k04tX2fvh0o&list=RDk04tX2fvh0o&start_radio=1)가 울려퍼졌으면 좋겠다. 평소에 Guns N' Roses의 노래를 좋아할 뿐더러 그 중에서 "Knocking on heaven's door'은 죽어가는 보안관을 위한 노래라는 점에서, 천국의 문앞에 서있는 내 모습을 사람들에게 보여줄 수 있을 것 같기 때문이다.
+장례식에는 Guns N' Roses의 ["Knocking on heaven's door'](https://www.youtube.com/watch?v=k04tX2fvh0o&list=RDk04tX2fvh0o&start_radio=1)가 울려퍼졌으면 좋겠다. 평소에 Guns N' Roses의 노래를 좋아할 뿐더러 그 중에서 "Knocking on heaven's door'은 죽어가는 보안관을 위한 노래라는 점에서, 천국의 문앞에 서있는 내 모습을 사람들에게 보여줄 수 있을 것 같기 때문이다. 기타 리프가 이끄는 그 강렬함은 내가 기억되고 싶은 삶의 방식을 담고 있다 — 열정적이고, 거침없이, 온전히 살아있었던 삶. 사람들이 울어야 한다면, 차라리 그 리프가 울려 퍼지는 가운데 울었으면 한다.
