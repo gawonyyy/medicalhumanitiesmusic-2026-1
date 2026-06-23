@@ -20,7 +20,7 @@ Similarly, one could further explore the relationship between mental illness and
 
 <img src="./lee-kubin.png" alt="Abstrach image of Kyphosis" style="width:75%;" />
 
-#The Music I Hope Will Be Played at My Funeral
+# The Music I Hope Will Be Played at My Funeral
 
 "I would like Guns N' Roses' ["Knocking on Heaven's Door](https://www.youtube.com/watch?v=k04tX2fvh0o&list=RDk04tX2fvh0o&start_radio=1) to play at my funeral. Not only do I love Guns N' Roses in general, but this song in particular is written for a dying sheriff — so I feel like it would paint a picture of me standing at the gates of heaven for everyone there."
 
