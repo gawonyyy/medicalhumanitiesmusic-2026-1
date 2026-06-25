@@ -1,8 +1,8 @@
 ---
 Title: The A Team
 Year: 2011
-Genre: song
-Disease: substance dependence
+Genre: Music
+Disease: Substance dependence
 ICD: 6C4G.2
 ---
 
