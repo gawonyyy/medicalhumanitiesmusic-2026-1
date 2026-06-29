@@ -3,7 +3,7 @@ Title: A Beautiful Mind
 Year: 2001
 Genre: Film
 Disease: Schizophrenia
-ICD: F20–F29
+ICD: F20–F29 
 ---
 
 # A Beautiful Mind 
